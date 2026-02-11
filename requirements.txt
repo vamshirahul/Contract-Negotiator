@@ -1,1 +1,6 @@
 jupyterlab>3.0
+streamlit
+openai
+pydantic
+pdfplumber
+python-dotenv
